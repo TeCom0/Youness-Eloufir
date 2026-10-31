@@ -10,5 +10,5 @@ Tools I use most
 Python · FastAPI · LangGraph · PostgreSQL/pgvector · React/TypeScript · Docker · Azure · GitHub Actions · pytest · TensorFlow
 
 Contact
-LinkedIn · PASTE_YOUR_EMAIL
+LinkedIn: https://www.linkedin.com/in/younesseloufir/ · y.eloufir@aui.ma
 
